@@ -2,7 +2,9 @@
 
 Script que et descarrega un arxiu csv amb la llista dels 20 productes més venuts de la web de cubs de Rubik https://www.ziicube.com.
 
-Aquest projecte és la Pràctia 1 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
+Aquest projecte és la Pràctica 1 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
+
+A la carpeta [src](src) hi trobareu el codi python utilitzat per obtenir les dades. També hi ha un document yml per crear un entorn Anaconda i un arxiu csv amb un exemple del dataframe de sortida.
 
 # Configuració
 
