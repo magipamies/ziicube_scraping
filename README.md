@@ -31,6 +31,9 @@ En aquest arxiu hi ha la relació dels 20 productes més venuts amb els següent
 - ***brand_name***:	Nom de l'empresa que produeix el producte
 - ***web***: Pàgina web del producte
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5644225.svg)](https://doi.org/10.5281/zenodo.5644225)
+
 # Documentació
 
 
