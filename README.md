@@ -6,7 +6,7 @@ Aquest projecte és la Pràctia 1 de l'assignatura Tipologia i cicle de vida de 
 
 # Configuració
 
-Per poder executar el codi, cal instal·lar una serie de paquets. La forma més senzilla és crear un nou entorn amb Anaconda i el fitxer [ziicube_scraping.yml](scr/ziicube_scraping.yml). Només cal executar la següent ordre a la consola:
+Per poder executar el codi, cal instal·lar una serie de paquets. La forma més senzilla és crear un nou entorn amb Anaconda i el fitxer [ziicube_scraping.yml](src/ziicube_scraping.yml). Només cal executar la següent ordre a la consola:
 
 ```
 conda env create -f ziicube_scraping.yml
@@ -25,7 +25,7 @@ pip install lxml
 
 # Execució
 
-Per iniciar el procés, cal executar el fitxer [ziicube_scraping.py](scr/ziicube_scraping.py) a la consola mitjançant el següent ordre:
+Per iniciar el procés, cal executar el fitxer [ziicube_scraping.py](src/ziicube_scraping.py) a la consola mitjançant el següent ordre:
 
 ```
 python ziicube_scraping.py
@@ -33,7 +33,7 @@ python ziicube_scraping.py
 
 # Resultats
 
-Un  cop executat l'script, els resultats es guardaran al fitxer [ziicube_30day_bestseller.csv](scr/ziicube_30day_bestseller.csv).
+Un  cop executat l'script, els resultats es guardaran al fitxer [ziicube_30day_bestseller.csv](src/ziicube_30day_bestseller.csv).
 
 En aquest arxiu hi ha la relació dels 20 productes més venuts amb els següents atributs:
 - ***pos***: Posició en el ràrquing dels més venuts	
