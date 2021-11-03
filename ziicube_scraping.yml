@@ -1,0 +1,18 @@
+name: ziicube_scraping
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9	
+  - beautifulsoup4
+  - lxml
+  - pandas
+  - requests
+  - tqdm
+  - tzdata=2021e=he74cb21_0
+  - urllib3=1.25.11=py_0
+  - wheel=0.37.0=pyhd8ed1ab_1
+  - pip
+  - pip:
+    - builtwith
+
