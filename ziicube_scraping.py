@@ -28,7 +28,7 @@ def cubs_attr(web):
 
     rat = soup_f.find('div', {"class": "sku-rating"})
 
-    attr_dict['rat_cub'] = int(re.findall(r'\d+', rat.b['style'])[0])
+    attr_dict['rat'] = int(re.findall(r'\d+', rat.b['style'])[0])
 
     attr_dict['likes'] = rat.find('i', {"class": "coO"}).string
 
