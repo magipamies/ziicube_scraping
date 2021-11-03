@@ -45,7 +45,7 @@ En aquest arxiu hi ha la relació dels 20 productes més venuts amb els següent
 - ***brand_name***:	Nom de l'empresa que produeix el producte
 - ***web***: Pàgina web del producte
 
-El dataset està penjat a la web [zenodo](www.zenodo.org) i s'hi pot accedir a través del següent enllaç:
+El dataset està penjat a la web [zenodo](https://zenodo.org/) i s'hi pot accedir a través del següent enllaç:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5644225.svg)](https://doi.org/10.5281/zenodo.5644225)
 
 # Documentació
