@@ -53,7 +53,7 @@ El dataset està penjat a la web [zenodo](https://zenodo.org/) i s'hi pot accedi
 
 # Documentació
 
-El document baavavads ....... conté les respostes de la Pràctica 1 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
+El document [PRA1_magipamies.pdf](PRA1_magipamies.pdf) conté les respostes de la Pràctica 1 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.
 
 # Llicència
 
